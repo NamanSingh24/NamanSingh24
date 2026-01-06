@@ -18,7 +18,3 @@
 
 - pursuing B.Tech. in CSAM from [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi).
 
-###
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namansingh24&show_icons=true&locale=en&layout=compact" alt="namansingh24" /></p>
-
-###
