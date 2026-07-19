@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="373" viewBox="0 0 490 373" role="img" aria-label="Profile info card">
+<style>
+  .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+  .k{fill:#39d353;font-weight:600}
+  .v{fill:#c9d1d9}
+  .d{fill:#7d8590}
+  .a{fill:#58a6ff;font-weight:600}
+  .ln{opacity:0;animation:in var(--f) ease-out both;animation-delay:var(--t)}
+  @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<rect width="100%" height="100%" fill="none"/>
+<text class="m a" x="18" y="30" font-size="12.5">naman@github</text>
+<text class="m d" x="110" y="30" font-size="12.5">~ $ neofetch</text>
+<line x1="18" y1="38" x2="472" y2="38" stroke="#30363d" stroke-width="1"/>
+<g class="ln" style="--f:0.45s;--t:0.0s">
+<text class="m k" x="18" y="56.0" font-size="11.5">role</text>
+<text class="m v" x="80" y="56.0" font-size="11.5">Product Engineer · Agentic AI</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.07s">
+<text class="m k" x="18" y="73.5" font-size="11.5">focus</text>
+<text class="m v" x="80" y="73.5" font-size="11.5">Multi-agent systems, RAG, correctness</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.14s">
+<text class="m k" x="18" y="91.0" font-size="11.5">edu</text>
+<text class="m v" x="80" y="91.0" font-size="11.5">B.Tech CS &amp; Applied Math, IIIT Delhi</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.21s">
+<text class="m k" x="18" y="108.5" font-size="11.5">loc</text>
+<text class="m v" x="80" y="108.5" font-size="11.5">New Delhi, India</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.35s">
+<text class="m k" x="18" y="143.5" font-size="11.5">stack</text>
+<text class="m v" x="80" y="143.5" font-size="11.5">Python · FastAPI · LangGraph · LangChain</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.42s">
+<text class="m v" x="80" y="161.0" font-size="11.5">Qdrant · pgvector · Redis · MongoDB</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.49s">
+<text class="m v" x="80" y="178.5" font-size="11.5">Celery · Socket.IO · Docker · AWS</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.56s">
+<text class="m v" x="80" y="196.0" font-size="11.5">Playwright · PyTest · PyTorch</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.7s">
+<text class="m k" x="18" y="231.0" font-size="11.5">building</text>
+<text class="m v" x="80" y="231.0" font-size="11.5">NL -&gt; executable workflow engine</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.77s">
+<text class="m v" x="80" y="248.5" font-size="11.5">Multi-agent delegation w/ HITL takeover</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.84s">
+<text class="m v" x="80" y="266.0" font-size="11.5">Three-tier retrieval orchestrator</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:0.91s">
+<text class="m v" x="80" y="283.5" font-size="11.5">LLM correctness + grounding test suites</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:1.05s">
+<text class="m k" x="18" y="318.5" font-size="11.5">also</text>
+<text class="m v" x="80" y="318.5" font-size="11.5">Founder, CrescoCare (social welfare NGO)</text>
+</g>
+<g class="ln" style="--f:0.45s;--t:1.12s">
+<text class="m k" x="18" y="336.0" font-size="11.5">open to</text>
+<text class="m v" x="80" y="336.0" font-size="11.5">AI / product engineering conversations</text>
+</g>
+</svg>
