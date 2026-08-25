@@ -385,10 +385,11 @@
 <rect class="c" style="--d:0.34s;--t:0.672s" x="744" y="96" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32"><title>1 on 2026-08-21</title></rect>
 <rect class="c" style="--d:0.34s;--t:0.684s" x="744" y="110" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32"><title>1 on 2026-08-22</title></rect>
 <rect class="c" style="--d:0.34s;--t:0.624s" x="758" y="26" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32"><title>1 on 2026-08-23</title></rect>
-<rect class="c" style="--d:0.34s;--t:0.636s" x="758" y="40" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>0 on 2026-08-24</title></rect>
+<rect class="c" style="--d:0.34s;--t:0.636s" x="758" y="40" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32"><title>1 on 2026-08-24</title></rect>
+<rect class="c" style="--d:0.34s;--t:0.648s" x="758" y="54" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>0 on 2026-08-25</title></rect>
 <line x1="30" y1="132" x2="772" y2="132" stroke="#30363d" stroke-width="1"/>
-<text class="m" x="30" y="150" font-size="10" fill="#c9d1d9">62 contributions in the last year</text>
-<text class="m" x="30" y="165" font-size="9" fill="#7d8590">current streak 36d  ·  longest 36d  ·  best day 4</text>
+<text class="m" x="30" y="150" font-size="10" fill="#c9d1d9">63 contributions in the last year</text>
+<text class="m" x="30" y="165" font-size="9" fill="#7d8590">current streak 37d  ·  longest 37d  ·  best day 4</text>
 <text class="m" x="600" y="150" font-size="9" fill="#7d8590">Less</text>
 <rect x="626" y="140" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"/>
 <rect x="640" y="140" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429"/>
